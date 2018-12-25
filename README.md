@@ -24,7 +24,7 @@ Za każde zadanie można uzyskać inną liczbę punktów
 *Punktacja* 3 punkty
 
 ## [Zadanie 1](./homework_1/homework_1.md)
-*Termin:* 30.12.2018
+*Termin:* 02.01.2019
 
 *Opis:* Losowanie liczb
 

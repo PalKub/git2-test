@@ -1,5 +1,5 @@
 # Zadanie 1
-*Termin:* 30.12.2018
+*Termin:* 02.01.2019
 
 # Treść zadania
 Zasady:
