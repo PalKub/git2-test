@@ -18,6 +18,13 @@ Za każde zadanie można uzyskać inną liczbę punktów
 ## [Jak zacząć pracę w domu](./Start.md)
 Tutaj znajdziesz tutorial jak rozpocząć pracę ze swoim repozytorium w domu
 
+## [Zadanie 4](./homework_4/homework_4.md)
+*Termin:* 20.01.2019
+
+*Opis:* Gra w zgadywanie liczb.
+
+*Punktacja* 3 punkty
+
 ## [Zadanie 3](./homework_3/homework_3.md)
 *Termin:* 13.01.2019
 
