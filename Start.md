@@ -23,7 +23,7 @@ Najprostszy sposób aby zaczać pracować:
   ```
 7. Git powinien zapytać się o username i hasło
 
-##Przykład ( Dzięki Adrian za pomoc :) ):
+# Przykład ( Dzięki Adrian za sugestię :) )
 1. git clone https://github.com/infoshareacademy/jjdzw2-homeworks.git  // klonujemy repozytorium
 2. git branch imie.nazwisko  // tworzymy branch
 3. git checkout imie.nazwisko  // przełączamy się na utworzony branch
@@ -32,8 +32,8 @@ Najprostszy sposób aby zaczać pracować:
 6. git commit -m 'Treść co zostało zmienione/dodane w języku angielskim'
 7. git push origin imie.nazwisko
 
-koniec
+Koniec
 
 Jeżeli pojawi się nowe zadanie robicie git pull ale pamiętajcie, że wcześniej musicie mieć wszystko spushowane
 
-CZytajcie komunikaty w konsoli! Powodzenia!
+Czytajcie komunikaty w konsoli! Powodzenia!
